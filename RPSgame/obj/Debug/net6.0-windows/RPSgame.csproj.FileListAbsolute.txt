@@ -1,0 +1,17 @@
+C:\Users\arcst\source\repos\RPSgame\RPSgame\bin\Debug\net6.0-windows\RPSgame.exe
+C:\Users\arcst\source\repos\RPSgame\RPSgame\bin\Debug\net6.0-windows\RPSgame.deps.json
+C:\Users\arcst\source\repos\RPSgame\RPSgame\bin\Debug\net6.0-windows\RPSgame.runtimeconfig.json
+C:\Users\arcst\source\repos\RPSgame\RPSgame\bin\Debug\net6.0-windows\RPSgame.dll
+C:\Users\arcst\source\repos\RPSgame\RPSgame\bin\Debug\net6.0-windows\RPSgame.pdb
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.Form1.resources
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.Properties.Resources.resources
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.csproj.GenerateResource.cache
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.AssemblyInfoInputs.cache
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.AssemblyInfo.cs
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.csproj.CoreCompileInputs.cache
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.dll
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\refint\RPSgame.dll
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.pdb
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\RPSgame.genruntimeconfig.cache
+C:\Users\arcst\source\repos\RPSgame\RPSgame\obj\Debug\net6.0-windows\ref\RPSgame.dll
